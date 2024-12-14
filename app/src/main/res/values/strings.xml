@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="TotalCuenta">Total Cuenta</string>
+    <string name="TotalCuentatxt"></string>
+    <string name="Propina">Propina</string>
+    <string name="Prop10">10%</string>
+    <string name="Prop15">15%</string>
+    <string name="Prop20">20%</string>
+    <string name="Prop10txt"></string>
+    <string name="Prop15txt"></string>
+    <string name="Prop20txt"></string>
+    <string name="Total10txt"></string>
+    <string name="Total15txt"></string>
+    <string name="Total20txt"></string>
+    <string name="Personalizado">Personalizado</string>
+    <string name="PorcentajePers"></string>
+    <string name="PropinaPerstxt"></string>
+    <string name="TotalPerstxt"></string>
+    <string name="TotalPers">Total</string>
+
+
+</resources>
